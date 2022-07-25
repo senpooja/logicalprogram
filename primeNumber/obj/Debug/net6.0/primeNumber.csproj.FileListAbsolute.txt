@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\bin\Debug\net6.0\primeNumber.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\bin\Debug\net6.0\primeNumber.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\bin\Debug\net6.0\primeNumber.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\bin\Debug\net6.0\primeNumber.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\bin\Debug\net6.0\primeNumber.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\obj\Debug\net6.0\primeNumber.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\obj\Debug\net6.0\primeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\obj\Debug\net6.0\primeNumber.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\obj\Debug\net6.0\primeNumber.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\obj\Debug\net6.0\primeNumber.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\obj\Debug\net6.0\primeNumber.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\obj\Debug\net6.0\refint\primeNumber.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\obj\Debug\net6.0\primeNumber.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\obj\Debug\net6.0\primeNumber.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\primeNumber\obj\Debug\net6.0\ref\primeNumber.dll
