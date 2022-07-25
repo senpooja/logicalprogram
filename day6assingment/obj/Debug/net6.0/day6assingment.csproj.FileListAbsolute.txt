@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\bin\Debug\net6.0\day6assingment.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\bin\Debug\net6.0\day6assingment.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\bin\Debug\net6.0\day6assingment.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\bin\Debug\net6.0\day6assingment.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\bin\Debug\net6.0\day6assingment.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\obj\Debug\net6.0\day6assingment.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\obj\Debug\net6.0\day6assingment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\obj\Debug\net6.0\day6assingment.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\obj\Debug\net6.0\day6assingment.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\obj\Debug\net6.0\day6assingment.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\obj\Debug\net6.0\day6assingment.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\obj\Debug\net6.0\refint\day6assingment.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\obj\Debug\net6.0\day6assingment.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\obj\Debug\net6.0\day6assingment.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\day6assingment\obj\Debug\net6.0\ref\day6assingment.dll
