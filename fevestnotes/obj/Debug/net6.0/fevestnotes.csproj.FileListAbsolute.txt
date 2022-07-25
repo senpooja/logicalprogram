@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\bin\Debug\net6.0\fevestnotes.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\bin\Debug\net6.0\fevestnotes.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\bin\Debug\net6.0\fevestnotes.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\bin\Debug\net6.0\fevestnotes.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\bin\Debug\net6.0\fevestnotes.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\obj\Debug\net6.0\fevestnotes.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\obj\Debug\net6.0\fevestnotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\obj\Debug\net6.0\fevestnotes.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\obj\Debug\net6.0\fevestnotes.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\obj\Debug\net6.0\fevestnotes.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\obj\Debug\net6.0\fevestnotes.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\obj\Debug\net6.0\refint\fevestnotes.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\obj\Debug\net6.0\fevestnotes.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\obj\Debug\net6.0\fevestnotes.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\fevestnotes\obj\Debug\net6.0\ref\fevestnotes.dll
