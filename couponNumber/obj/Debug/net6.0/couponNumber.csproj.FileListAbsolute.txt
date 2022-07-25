@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\bin\Debug\net6.0\couponNumber.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\bin\Debug\net6.0\couponNumber.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\bin\Debug\net6.0\couponNumber.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\bin\Debug\net6.0\couponNumber.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\bin\Debug\net6.0\couponNumber.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\obj\Debug\net6.0\couponNumber.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\obj\Debug\net6.0\couponNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\obj\Debug\net6.0\couponNumber.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\obj\Debug\net6.0\couponNumber.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\obj\Debug\net6.0\couponNumber.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\obj\Debug\net6.0\couponNumber.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\obj\Debug\net6.0\refint\couponNumber.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\obj\Debug\net6.0\couponNumber.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\obj\Debug\net6.0\couponNumber.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\couponNumber\obj\Debug\net6.0\ref\couponNumber.dll
