@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\obj\Debug\net6.0\tempratureConversion.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\obj\Debug\net6.0\tempratureConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\obj\Debug\net6.0\tempratureConversion.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\obj\Debug\net6.0\tempratureConversion.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\obj\Debug\net6.0\tempratureConversion.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\bin\Debug\net6.0\tempratureConversion.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\bin\Debug\net6.0\tempratureConversion.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\bin\Debug\net6.0\tempratureConversion.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\bin\Debug\net6.0\tempratureConversion.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\bin\Debug\net6.0\tempratureConversion.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\obj\Debug\net6.0\tempratureConversion.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\obj\Debug\net6.0\refint\tempratureConversion.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\obj\Debug\net6.0\tempratureConversion.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\obj\Debug\net6.0\tempratureConversion.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\tempratureConversion\obj\Debug\net6.0\ref\tempratureConversion.dll
