@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\bin\Debug\net6.0\nunit7nibbles.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\bin\Debug\net6.0\nunit7nibbles.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\bin\Debug\net6.0\nunit7nibbles.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\bin\Debug\net6.0\nunit7nibbles.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\bin\Debug\net6.0\nunit7nibbles.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\obj\Debug\net6.0\nunit7nibbles.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\obj\Debug\net6.0\nunit7nibbles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\obj\Debug\net6.0\nunit7nibbles.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\obj\Debug\net6.0\nunit7nibbles.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\obj\Debug\net6.0\nunit7nibbles.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\obj\Debug\net6.0\nunit7nibbles.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\obj\Debug\net6.0\refint\nunit7nibbles.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\obj\Debug\net6.0\nunit7nibbles.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\obj\Debug\net6.0\nunit7nibbles.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\nunit7nibbles\obj\Debug\net6.0\ref\nunit7nibbles.dll
