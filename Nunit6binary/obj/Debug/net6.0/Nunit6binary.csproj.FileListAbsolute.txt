@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\bin\Debug\net6.0\Nunit6binary.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\bin\Debug\net6.0\Nunit6binary.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\bin\Debug\net6.0\Nunit6binary.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\bin\Debug\net6.0\Nunit6binary.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\bin\Debug\net6.0\Nunit6binary.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\obj\Debug\net6.0\Nunit6binary.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\obj\Debug\net6.0\Nunit6binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\obj\Debug\net6.0\Nunit6binary.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\obj\Debug\net6.0\Nunit6binary.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\obj\Debug\net6.0\Nunit6binary.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\obj\Debug\net6.0\Nunit6binary.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\obj\Debug\net6.0\refint\Nunit6binary.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\obj\Debug\net6.0\Nunit6binary.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\obj\Debug\net6.0\Nunit6binary.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\Nunit6binary\obj\Debug\net6.0\ref\Nunit6binary.dll
