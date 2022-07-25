@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\bin\Debug\net6.0\dayofweek.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\bin\Debug\net6.0\dayofweek.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\bin\Debug\net6.0\dayofweek.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\bin\Debug\net6.0\dayofweek.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\bin\Debug\net6.0\dayofweek.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\obj\Debug\net6.0\dayofweek.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\obj\Debug\net6.0\dayofweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\obj\Debug\net6.0\dayofweek.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\obj\Debug\net6.0\dayofweek.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\obj\Debug\net6.0\dayofweek.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\obj\Debug\net6.0\dayofweek.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\obj\Debug\net6.0\refint\dayofweek.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\obj\Debug\net6.0\dayofweek.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\obj\Debug\net6.0\dayofweek.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day6assingment\dayofweek\obj\Debug\net6.0\ref\dayofweek.dll
